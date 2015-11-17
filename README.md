@@ -5,6 +5,8 @@ This attack was written as part of a uni assignment. It is a simple bruteforce a
 
 
 Compile: g++ -std=c++11 main_edit2.cpp sha256.cpp sha256.h -o dictAttack
+
+
 Execute: ./dictAttack
 
 
